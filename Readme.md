@@ -1,10 +1,10 @@
-#Blowfish
+## Blowfish
 ```
 Successfuly encrypted file
 encrypted: 0gsz027qHsVbEZsz0Us9ZQ==
 decrypted: 2378dc9wf_178203
 ```
-##AES
+## AES
 ```
 {
   iv: 'afb02d22ca99f0cbb06a67f0a7290591',
@@ -13,7 +13,7 @@ decrypted: 2378dc9wf_178203
 Successfuly encrypted file
 decrypted: ala nie miala kota
 ```
-##DES
+## DES
 ```
 Encrypted:  615538fa07b6a456a811ec90d0964d8462f478bbe8eb99c1
 Successfuly encrypted file
